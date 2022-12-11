@@ -2,7 +2,7 @@
 - 🔭 Currently working on mobile and web application development
 - 🌱 Currently learning JavaScript
 - 👯 Always looking to collaborate
-- 📫 Let's Connect [LinkedIn](https://www.linkedin.com/in/mohd-abdul-mubeen)|[Personal Website](http://abdulmubeen.github.io/)
+- 📫 Let's Connect [LinkedIn](https://www.linkedin.com/in/mohd-abdul-mubeen) | [Personal Website](http://abdulmubeen.github.io/)
 
 <!--
 **abdulmubeen/abdulmubeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
