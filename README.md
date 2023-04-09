@@ -3,7 +3,7 @@
 
 Skills: C / Java / JavaScript / Python / Bootstrap / Sass
 
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning WebGL, Three.js 
 - 💬 Ask me about Graphic Designing, Mobile and Web Development
 - 📫 How to reach me: abdulmubeen57@gmail.com 
 
